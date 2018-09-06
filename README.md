@@ -30,4 +30,4 @@ bsa.authenticate(false);
 
 ```
 ## Note
- This module support s only authorization header sent to bearer tocken.
+ This module support s only authorization header sent to Bearer token.
